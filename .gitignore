@@ -1,5 +1,8 @@
-node_modules
+node_modules/
+.nyc_output/
+coverage/
 yarn.lock
 /test/tmp
 /vendor/jpegoptim*
+!/vendor/jpegoptim-license.txt
 /vendor/share
